@@ -23,7 +23,8 @@ NOTE:
     E. The program super_fast_final1_w only accept word-by-word UCI bag-of-words format.
 
     F. A conversion tool "doc_uci_to_word_uci" is provided here to convert the doc-by-doc UCI dataset to the word-by-word format data file.
-    g. Some UCI bag-of-words datasets can be obtained from https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/ .
+    
+    g. Some document-by-document UCI bag-of-words datasets can be obtained from https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/ .
 
 USAGE:
 
