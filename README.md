@@ -54,7 +54,7 @@ LICENSE:
 CITATION:
 
   Victor C.W. Cheng and William K. Cheung, SFastLDA: Super Fast Latent Dirichlet Allocation (SFastLDA) [Software], 2016, available from
-http://jklsdjkldjkl
+https://github.com/hkbu-victor/SFastLDA .
  
 
 ENQUIRIES:
