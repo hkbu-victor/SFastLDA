@@ -2,7 +2,7 @@ INTRODUCTION:
 
     SFastLDA is a super fast implementation of the standard collapsed Gibbs sampling (CGS) for latent Dirichlet allocation (LDA). In contrast to some approximate implementations such as LightLDA or WarpLDA, it is an exact implementation of the CGS. Hence, the models inferred have the same quality as that from CGS.
     
-    We have compared SFastLDA with WarpLDA (on ENRON, NYTimes, and mPubMed datasets) and find that 400 iterations are sufficient for SFastLDA to infer models better than that of WarpLDA after running 5,000 iterations.
+    We have compared SFastLDA with WarpLDA (on ENRON, NYTimes, and mPubMed datasets) and find that 400 iterations are sufficient for SFastLDA to infer models better than that learnt with WarpLDA after running 5,000 iterations.
     
     SFastLDA has two main programs: super_fast_final1_d.cpp accepts data files with document-by-document UCI bag-of-words format and super_fast_final1_w.cpp deals with word-by-word UCI bag-of-words format. In our experiments, super_fast_final1_w is 2-5 times faster than superfast_final1_d. A tool is provided here to convert the document-by-document format data file to word-by-word format data file.
     
